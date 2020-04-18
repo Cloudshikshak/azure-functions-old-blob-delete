@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=afcmasterstorageaccount;AccountKey=DxQLTXtxOpK5nBtZynLTxUNdgnjw8zDdmUBtJS/W4sAGkY8g71dGS9LhGd3RhCvga5wdKRz/YV6+oQGUIptijw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "SENDGRID_APIKEY": "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"
+}
+}

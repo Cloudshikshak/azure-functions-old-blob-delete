@@ -1,2 +1,4 @@
-# azure-functions-old-blob-delete
-Azure Functions that deletes file from the azure blob container that are older than a threshold period and notify user with SendGrid Email API. 
+# Azure Functions Delete Old Blob
+
+## Explanation
+This demo is part of a course *Azure Functions Masterclass* on [Cloudshikshak.com](https://cloudshikshak.com)
